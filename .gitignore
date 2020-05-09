@@ -13,3 +13,5 @@ logs
 adm/build
 template/login/assets/login
 uploads
+adm/config.ini
+main.go
